@@ -1,0 +1,24 @@
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\N\Documents\Work in progress\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Work\Misc\Programs\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Work\Misc\Programs\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Work\Misc\Programs\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Work\Misc\Programs\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Work\Misc\Programs\Calculator\Calculator\obj\Debug\Calculator.pdb
